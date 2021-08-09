@@ -224,9 +224,8 @@ header{
 	transition: 0.3s !important;  
 }
 .p_text button:hover {
-	transform: scale(1.1); 
+	transform: scale(1.06) !important; 
 	color: white !important;
-	width: 73% !important;
 }
 .p_btn {
     background-color: black;
@@ -278,7 +277,7 @@ header{
 	font-size: 25px;
 	color: white;
 	width: 322px;
-    height: 65px;
+        height: 65px;
 }
 .content_2 button:hover {
 	transform: scale(1.05); 
