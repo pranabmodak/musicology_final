@@ -17,6 +17,12 @@
     padding-left: 0px; 
     margin-left: 0px; 
 }
+ .menu ul li a {
+    font-family: Oswald-Regular !important;
+    font-size: 20px !important;
+    color: #ffffff !important;
+    transition: 0.3s;
+}
 .nav_bar {
     border: none !important;
     font-size: 18px;
